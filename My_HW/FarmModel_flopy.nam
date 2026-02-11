@@ -7,6 +7,5 @@ BCF6              15  FarmModel_flopy.bcf
 OC                14  FarmModel_flopy.oc
 PCG               27  FarmModel_flopy.pcg
 WEL               20  FarmModel_flopy.wel
-RCH               19  FarmModel_flopy.rch
 DATA(BINARY)      53  FarmModel_flopy.cbc REPLACE
 DATA(BINARY)      51  FarmModel_flopy.hds REPLACE
