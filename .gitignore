@@ -15,6 +15,11 @@ content_weekly/Week3_WellsRecharge/*
 content_weekly/Week4_Layering/*
 !content_weekly/Week4_Layering/*.ipynb
 !content_weekly/Week4_Layering/top_elev.csv
+content_weekly/Homework3/*
+!content_weekly/Homework3/*.ipynb
+!content_weekly/Homework3/BASE_top_elev.csv
+content_weekly/Week5_Transient/*
+!content_weekly/Week5_Transient/*.ipynb
 uv.lock
 LPR_redux/
 
