@@ -47,3 +47,10 @@ def cubic_feet_to_cubic_meters(cubic_feet):
     """Convert a volume from cubic feet to cubic meters."""
     cubic_meters = cubic_feet / 35.3147
     return cubic_meters
+
+def compute_darcy(K, R, gradient):
+    """Compute daycy's flow"""
+    a = 3.1416*R*R
+    q = -K * gradient
+    Q = q * a
+    return Q
